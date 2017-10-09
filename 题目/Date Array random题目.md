@@ -91,6 +91,32 @@ console.log(arr) //[3, -1,  2,  '饥人谷', true]
 ~~~
 
 ### date题目
+- new Date()
+~~~
+1.如果不用参数，将会生成一个现在时间的对象。
+var a=new Date()
+console.log(a)//Mon Oct 09 2017 20:53:04 GMT+0800 (中国标准时间)
+
+
+
+2.Date.parse() //可以生成一个距离1970年1月1日00：00：00到现在的毫秒数字符串
+var a=new Date()
+var b=Date.parse(a)
+console.log(b)//1507553961000
+
+3.new Date()可以把生成的毫秒数转换为对应的时间对象
+var a=new Date()
+var b=Date.parse(a)
+var c=new Date(b)
+console.log(a)//Mon Oct 09 2017 21:01:45 GMT+0800 (中国标准时间)
+console.log(b)//1507554105000
+console.log(c)//Mon Oct 09 2017 21:01:45 GMT+0800 (中国标准时间)
+~~~
+
+3.两个不同的时间创建的new Date()对象 可以作运算。
+![Paste_Image.png](http://upload-images.jianshu.io/upload_images/8126350-2170126acbed4c6e.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+
 #### 1.写一个函数getChIntv，获取从当前时间到指定日期的间隔时间
 ~~~
 function getChIntv(target){
