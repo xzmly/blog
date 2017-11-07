@@ -1,0 +1,74 @@
+### 教你如何安装win10下的子系统linux到配置node最新版本
+***
+#### 开启windows10的子系统 
+- 第一步
+https://user-images.githubusercontent.com/14304201/28402050-49120a4e-6d50-11e7-99ba-34a9bccd6132.png
+
+- 第二步
+https://user-images.githubusercontent.com/14304201/28402134-cf594964-6d50-11e7-8a6a-96059e6a01e6.png
+
+(中间会叫你创建user和password)
+
+- 第三步
+重启电脑，等待更新
+
+- 第四步
+下载终端神器conemu(这里自己谷歌一下,或者联系我)
+
+- 第五步
+根据[这个网址](http://blog.csdn.net/M1mory/article/details/72591289). 里的内容配置好conemu
+
+
+- 第六步 
+这时候打开你配置好的conemu,输入bash,就能进入子系统了
+- ps:这里给一个温情提示，最好先获取root权限
+输入:
+~~~
+sudo passwd root
+~~~
+- 以后你想进入管理员模式 只要su,然后输入密码就行了
+
+
+- 这是右键打开终端命令
+~~~
+sudo apt-get install nautilus-open-terminal
+~~~
+
+#### 安装nvm
+- 这里你理解成你要为你新系统下载迅雷
+- 第一步
+再conemu里输入bash，进入到linux
+输入
+~~~
+curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.33.2/install.sh | bash
+
+
+nvm install stable
+
+
+nvm use stable
+//上面是安装nvm
+
+
+//下面是安装node和npm,并且是node最新版本
+curl -sL https://deb.nodesource.com/setup_8.x | sudo -E bash -
+sudo apt-get install -y nodejs
+
+
+sudo ln -s $(which node) /usr/bin/node
+
+
+sudo ln -s $(which npm) /usr/bin/npm
+~~~
+
+依次执行以上命令，不要问为什么。
+
+#### 查看node和npm版本
+输入
+~~~
+node -v
+
+npm -v
+~~~
+
+完成了~~~！！！
