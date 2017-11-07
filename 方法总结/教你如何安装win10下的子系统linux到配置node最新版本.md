@@ -10,20 +10,28 @@
 - 第二步
 ![456.png](http://upload-images.jianshu.io/upload_images/8126350-cf2c5a9b51f4ab07.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
+- 第三部
+右键你开始按钮，看到windows Powershell(管理员)，打开输入
+~~~
+bash
+# 或
+lxrun /install /y
+~~~
 
+等待安装
 (中间会叫你创建user和password)
 
-- 第三步
+- 第四步
 重启电脑，等待更新
 
-- 第四步
+- 第五步
 下载终端神器conemu(这里自己谷歌一下,或者联系我)
 
-- 第五步
+- 第六步
 根据[这个网址](http://blog.csdn.net/M1mory/article/details/72591289). 里的内容配置好conemu
 
 
-- 第六步 
+- 第七步 
 这时候打开你配置好的conemu,输入bash,就能进入子系统了
 - ps:这里给一个温情提示，最好先获取root权限
 输入:
