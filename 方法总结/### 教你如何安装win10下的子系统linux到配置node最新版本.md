@@ -2,10 +2,14 @@
 ***
 #### 开启windows10的子系统 
 - 第一步
-https://user-images.githubusercontent.com/14304201/28402050-49120a4e-6d50-11e7-99ba-34a9bccd6132.png
+![123.png](http://upload-images.jianshu.io/upload_images/8126350-1a9be80d8909c918.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+
+
 
 - 第二步
-https://user-images.githubusercontent.com/14304201/28402134-cf594964-6d50-11e7-8a6a-96059e6a01e6.png
+![456.png](http://upload-images.jianshu.io/upload_images/8126350-cf2c5a9b51f4ab07.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
 
 (中间会叫你创建user和password)
 
