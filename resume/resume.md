@@ -25,7 +25,7 @@ web前端开发
 - 技术栈:**Jquery、ES6、ajax、HTML5、CSS3**
 - 描述:调用豆瓣api接口，利用jsonp跨域展示豆瓣TOP250排行榜、北美排行榜、搜索功能。运用面向对象封装函数，用webpack对代码进行打包优化页面。
 
-#### Vue-Resume   [效果预览](https://xzmly.github.io/vue-resumer-1/dist/)   [效果预览](https://github.com/xzmly/vue-resumer-1)
+#### Vue-Resume   [效果预览](https://xzmly.github.io/vue-resumer-1/dist/)   [项目代码](https://github.com/xzmly/vue-resumer-1)
 - 技术栈:**vue.js、ES6、scss、webpack、bootstrap**
 - 这是一个在线简历编辑器，实现了简历在线编辑。
 - 使用**vue-cli + webpack**进行模块化开发，使用**scss**进行**css**预处理编写。
