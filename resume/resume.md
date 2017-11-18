@@ -17,28 +17,28 @@ web前端开发
 ***
 
 ### 项目经验
-####  网易云音乐   [效果预览](https://github.com/xzmly/ease-music/blob/master/img/1510714236.png)
+####  网易云音乐   [效果预览](https://github.com/xzmly/ease-music/blob/master/img/1510714236.png)   [项目代码](https://github.com/xzmly/ease-music)
 - 技术栈:**Jquery**、**ajax**、**HTML5**、**CSS3**、**ES6**
 - 描述:一个移动端页面应用，在网上download数据，并编写出**json**，使用**ES6**语法进行代码编写，使用**ajax**调用展示出首页音乐，热榜音乐，搜索音乐等页面功能。运用**HTML5+CSS3**实现播放页面，动态播放出歌词，歌词准确提示。
 
-#### 移动端豆瓣电影   [效果预览](https://github.com/xzmly/Mobile-douban/blob/master/img/1509506084.png)
+#### 移动端豆瓣电影   [效果预览](https://github.com/xzmly/Mobile-douban/blob/master/img/1509506084.png)   [项目代码](https://github.com/xzmly/Mobile-douban)
 - 技术栈:**Jquery、ES6、ajax、HTML5、CSS3**
 - 描述:调用豆瓣api接口，利用jsonp跨域展示豆瓣TOP250排行榜、北美排行榜、搜索功能。运用面向对象封装函数，用webpack对代码进行打包优化页面。
 
-#### Vue-Resume   [效果预览](https://xzmly.github.io/vue-resumer-1/dist/)
+#### Vue-Resume   [效果预览](https://xzmly.github.io/vue-resumer-1/dist/)   
 - 技术栈:**vue.js、ES6、scss、webpack、bootstrap**
 - 这是一个在线简历编辑器，实现了简历在线编辑。
 - 使用**vue-cli + webpack**进行模块化开发，使用**scss**进行**css**预处理编写。
 - 过程中加深了对**vue.js**应用**MVVM**框架的原理，对模块化编程进一步加深了解。
 
-#### Note在线留言墙   [效果预览](http://cwhh.ltd/)
+#### Note在线留言墙   [效果预览](http://cwhh.ltd/)   [项目代码](https://github.com/xzmly/Express-note-2)
 - 技术栈：**node.js、Express 、sqlite3 、webpack、**
 - 使用js封装页面所需要各大组建，模块化开发方式，使用webpck+npm sctrip 使开发过程更加效率、方便，使用npm 进行前后端联调。
 - 使用Express、路由、中间件搭建出工作框架，使用sqlite3小型数据库保存数据。
 - 网页增添登陆功能，使用代理配置，完成github第三方登陆。
 - 网站后台挂载在阿里云服务器，熟悉了对PM2的使用。
 
-#### [个人作品集](https://github.com/xzmly/Mydemo)
+#### [个人作品集](https://github.com/xzmly/Mydemo)   [项目代码](https://github.com/xzmly/vue-resumer-1)
 - 描述:包括一些常见轮播图，瀑布流实现的新闻列表，结算页面等。
 - [瀑布流新闻](https://xzmly.github.io/Mydemo/small%20demo/waterFall%20news/demo.html)
 - [某结算页面](https://xzmly.github.io/Mydemo/%E7%BB%93%E7%AE%97%E9%A1%B5%E9%9D%A2/demo.html)
