@@ -31,7 +31,7 @@ web前端开发
 - 使用**vue-cli + webpack**进行模块化开发，使用**scss**进行**css**预处理编写。
 - 过程中加深了对**vue.js**应用**MVVM**框架的原理，对模块化编程进一步加深了解。
 
-#### Note在线留言墙   [效果预览](http://cwhh.ltd:3799/)
+#### Note在线留言墙   [效果预览](http://cwhh.ltd/)
 - 技术栈：**node.js、Express 、sqlite3 、webpack、**
 - 使用js封装页面所需要各大组建，模块化开发方式，使用webpck+npm sctrip 使开发过程更加效率、方便，使用npm 进行前后端联调。
 - 使用Express、路由、中间件搭建出工作框架，使用sqlite3小型数据库保存数据。
