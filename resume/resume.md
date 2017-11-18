@@ -38,7 +38,7 @@ web前端开发
 - 网页增添登陆功能，使用代理配置，完成github第三方登陆。
 - 网站后台挂载在阿里云服务器，熟悉了对PM2的使用。
 
-#### [个人作品集](https://github.com/xzmly/Mydemo)   [项目代码](https://github.com/xzmly/vue-resumer-1)
+#### [个人作品集](https://github.com/xzmly/Mydemo)
 - 描述:包括一些常见轮播图，瀑布流实现的新闻列表，结算页面等。
 - [瀑布流新闻](https://xzmly.github.io/Mydemo/small%20demo/waterFall%20news/demo.html)
 - [某结算页面](https://xzmly.github.io/Mydemo/%E7%BB%93%E7%AE%97%E9%A1%B5%E9%9D%A2/demo.html)
