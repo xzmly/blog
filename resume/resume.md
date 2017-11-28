@@ -17,7 +17,20 @@ web前端开发
 - 2013-2016
 ***
 
+### 工作经历
+- 中山市维点网络科技有限公司
+- 时间:2015.11-2016.3
+- 职位:前端开发
+
+- 广州柳橙网络科技有限公司
+- 时间:2016.4-至今
+- 职位:前端工程师
+
 ### 项目经验
+#### 珂卡芙官方旗靓店  (小程序搜索珂卡芙官方旗靓店)
+- 技术栈:HTML CSS javascript vue知识
+- 基于微信小程序开发平台开发的一款商品展示小程序,配合公司UI,做出小程序,帮助珂卡芙旗靓店做到在附近小程序宣传效果,增加销售额。
+
 ####  网易云音乐   [效果预览](https://github.com/xzmly/ease-music/blob/master/img/1510714236.png)   [项目代码](https://github.com/xzmly/ease-music)
 - 技术栈:**Jquery**、**ajax**、**HTML5**、**CSS3**、**ES6**
 - 描述:一个移动端页面应用，在网上download数据，并编写出**json**，使用**ES6**语法进行代码编写，使用**ajax**调用展示出首页音乐，热榜音乐，搜索音乐等页面功能。运用**HTML5+CSS3**实现播放页面，动态播放出歌词，歌词准确提示。
@@ -38,12 +51,6 @@ web前端开发
 - 使用Express、路由、中间件搭建出工作框架，使用sqlite3小型数据库保存数据。
 - 网页增添登陆功能，使用代理配置，完成github第三方登陆。
 - 网站后台挂载在阿里云服务器，熟悉了对PM2的使用。
-
-#### [个人作品集](https://github.com/xzmly/Mydemo)
-- 描述:包括一些常见轮播图，瀑布流实现的新闻列表，结算页面等。
-- [瀑布流新闻](https://xzmly.github.io/Mydemo/small%20demo/waterFall%20news/demo.html)
-- [某结算页面](https://xzmly.github.io/Mydemo/%E7%BB%93%E7%AE%97%E9%A1%B5%E9%9D%A2/demo.html)
-- [某介绍首页](https://xzmly.github.io/Mydemo/small%20demo/practice%20poject/page.html)
 
 ***
 
