@@ -9,14 +9,14 @@ web前端开发
 - github: [github.com/xzmly](https://github.com/xzmly)
 - blog:[xzmly.github.io](https://xzmly.github.io/)
 ***
-
-### 教育经历
-- 广东理工学院
-- 大专
-- 2012-2015
-- 计算机专业
-***
-
+#### 工作经验
+- 广州柳橙科技有限公司
+- 2017-10 ~ 至今
+##### 项目经验: 功夫会小程序
+- 前端技术栈：**小程序原生框架** + **mobx** + **promise** + **ES6**
+- 描述: 真功夫数字化转型项目，基于微信小程序原生框架开发，引入promise对接口进行封装，处理异步问题。引入mobX 加强状态管理，处理了微信小程序初始化Data数据，数组不能push，对象不能直接修改问题，setData({})会影响性能的问题。 css 指定用flex布局。
+- 总结: 更加熟悉微信小程序的开发，学会如何抽离公共模板，公共样式(可以引入一个sass，重复写css有点浪费)。加深对promise使用，接口封装，异步处理。加深对mobX使用，状态管理的运用。更加熟悉前后端的联调，沟通，调试。
+[效果预览](http://ozb1j982i.bkt.clouddn.com/421534873205701433.jpg)
 
 ####  网易云音乐   [效果预览](https://github.com/xzmly/ease-music/blob/master/img/1510714236.png)   [项目代码](https://github.com/xzmly/ease-music)
 - 技术栈:**Jquery**、**ajax**、**HTML5**、**CSS3**、**ES6**
@@ -70,14 +70,14 @@ web前端开发
 ***
 
 ### 其他
-- 日常使用**sublime和WebStorm**进行开发，很乐意尝试新工具
-- 能够使用**photoshop**完成切图和简单图片编辑
-- 熟悉使用linux系统。
-- 谷歌高度分子。
+- 日常使用**sublime,WebStorm和VSCode**进行开发，很乐意尝试新工具
+- 能够使用**photoshop和PXcode**完成切图和简单图片编辑
+- 熟悉使用linux WINDOW ios系统。
 ***
 
 ### 我的特点
 - 性格开朗，易与人相处，能够快速融入团队
+- 乐于接收领导的建议，批评。
 - 乐于接受新鲜事物，学习新技术
 - 业余喜欢运动
 - 有明确的短期目标和长期目标，建立自己的职业生涯
