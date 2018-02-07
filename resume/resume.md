@@ -7,7 +7,7 @@ web前端开发
 - tel:18575055829
 - weixin:1085810633
 - github: [github.com/xzmly](https://github.com/xzmly)
-- blog:[xzmly.github.io](https://xzmly.github.io/)
+- blog: [blog](https://www.jianshu.com/u/40557ee17082)
 ***
 ### 工作经验
 - 广州柳橙科技有限公司
