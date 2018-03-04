@@ -1,4 +1,4 @@
-
+~~~
 		function Promise(fn) {
 			var status = 'pending'
 
@@ -25,12 +25,11 @@
 
 		}
 
-		var p = Promise(function(resolve,reject) { 
+		Promise(function(resolve,reject) { 
 			setTimeout(function(){
 				resolve('成功')
 			},1000)
+		}).then((res)=>{
+			console.log(res)
 		})
-    
-    p.then((res)=>{
-			console.log(res)  // '成功'
-		})
+~~~
