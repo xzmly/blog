@@ -3,9 +3,9 @@
 ### 陈文浩
 web前端开发
 
-- Email:1085810633@qq.com
-- tel:18575055829
-- weixin:1085810633
+- Email: 1085810633@qq.com
+- tel: 18575055829
+- weixin: 1085810633
 - github: [github.com/xzmly](https://github.com/xzmly)
 - blog: [blog](https://www.jianshu.com/u/40557ee17082)
 - 学历：大专
