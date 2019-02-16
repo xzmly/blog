@@ -24,7 +24,7 @@
 - 负责[写代码啦](https://xiedaimala.com/)，[饥人谷官网](https://jirengu.com/)，版本升级开发与维护。
 - 独立开发xdml微信小程序（微信搜索xdml助手），直播功能，一键登录，后端api设计与编写。
 - 独立开发[河码](https://xiedaimala.com/bbs)，从表设计到测试到项目上线。
-- 独立完成春节活动页面，并部署到服务器。[]()
+- 独立完成春节活动页面，并部署到服务器。[效果预览](https://xiedaimala.com/act2018/)
 - 参与React + TS造轮子开源项目测试编写。
 
 ### 个人项目
