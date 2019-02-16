@@ -19,9 +19,13 @@
 - wsx 原生模版改造页面，在ios上性能加倍，体验优化。
 
 #### 杭州饥人谷教育科技有限公司 —— ruby on rails 全栈工程师 —— 2018-03 ~ 至今
+- 技术栈：Vue，rails，小程序，React，TypeScript
+- 后台管理一些常见的CRUD，API设计。
 - 负责[写代码啦](https://xiedaimala.com/)，[饥人谷官网](https://jirengu.com/)，版本升级开发与维护。
 - 独立开发xdml微信小程序（微信搜索xdml助手），直播功能，一键登录，后端api设计与编写。
-- 独立开发[河码](https://xiedaimala.com/bbs)
+- 独立开发[河码](https://xiedaimala.com/bbs)，从表设计到测试到项目上线。
+- 独立完成春节活动页面，并部署到服务器。[]()
+- 参与React + TS造轮子开源项目测试编写。
 
 ### 个人项目
 
