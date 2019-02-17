@@ -13,7 +13,7 @@
 - 熟练掌握html,css/less/scss,原生js进行开发。
 - 熟练使用Vue，进行快速开发,有一定的造轮子实践经验。
 - 精通原生小程序。
-- 熟悉React。
+- 熟悉ReactJS。
 - 熟悉http。
 - 熟悉pgsql，mysql数据库。
 - 熟练掌握rails，capistrano一键部署，熟悉nginx配置。
