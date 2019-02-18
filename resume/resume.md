@@ -9,6 +9,9 @@
 - github: [github.com/xzmly](https://github.com/xzmly)
 - blog: [blog](https://www.jianshu.com/u/40557ee17082)
 ***
+### 教育经历
+- 2013～2016 全日制大专 机电一体化
+***
 ### 技术栈
 - 熟练掌握html,css/less/scss,原生js进行开发。
 - 熟练使用Vue全家桶，有复杂轮子实践经验。
