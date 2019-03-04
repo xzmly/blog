@@ -13,7 +13,8 @@
 - 负责[XDML](https://xiedaimala.com)网站PC版，移动端，Admin后台的开发和维护以及版本迭代。
 - 用Vue造出常用轮子，如**Pagination**，**Tabs**，**Dialog**，**Collapse**等常用轮子，方便功能复用，避免重复造轮子。
 - 前端利用**axios**调用API，从而完成优惠券，博客，用户等业务功能，用**Rails**搭建过优惠券模块，博客模块等功能模块，独立编写完**API**和测试用例，为公司带来不错的收益。
-- 
+- **Rails routes**监听/admin路由，用**VueRouter**/**history**模式接管，从而完成后台管理系统。
+- 后台常见的**CRUD**开发以及维护。
 
 #### [河码](https://xiedaimala.com/bbs)
 - 技术栈：**Vue**，**VueRouter**，**VueX**，**Rails**
