@@ -24,6 +24,7 @@
 
 #### XDML小程序
 - 技术栈：**mpvue**，**websocket**，**webpack**，**scss**
+- 项目描述：公司小程序项目，方便用户在线上观看直播，查看最新产品，预约等。
 - 负责XDML小程序开发维护以及版本发布。
 - 应用小程序第三方框架**mpvue**进行工程化开发。
 - 对**wx.request**进行封装，对接口进行二次封装成**model**，方便调用。
@@ -32,8 +33,10 @@
 
 #### [饥人谷官网](https://jirengu.com/)
 - 技术栈：**Jquery**，**Parcel**，**scss**
+- 项目描述：
 - 运用**Parcel**进行框架快速搭建进行开发以及打包。
 - 引入**Jquery**方便进行**DOM**操作，和动画制作。
+- 运用 **@meida**监听设备尺寸，从而适配移动端。
 - 引入第三方库**Lightbox**作出图片放大效果。
 
 #### [gu-ui-react](https://github.com/jrg-team/guui-react)（开源项目）
