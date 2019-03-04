@@ -1,8 +1,6 @@
 ## 个人信息
 - 陈文浩/男/24
-- 邮箱地址: 1085810633@qq.com
 - 联系电话: 18575055829
-- 微信: 1085810633
 - github: [github.com/xzmly](https://github.com/xzmly)
 - 技术博客: [blog](https://www.jianshu.com/u/40557ee17082)
 - 教育经历：广东理工学院/专科
