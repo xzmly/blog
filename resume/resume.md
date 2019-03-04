@@ -1,47 +1,50 @@
-
-
-### 陈文浩
-### web前端工程师
-
-- Email: 1085810633@qq.com
-- tel: 18575055829
-- weixin: 1085810633
+## 个人信息
+- 陈文浩/男/24
+- 邮箱地址: 1085810633@qq.com
+- 联系电话: 18575055829
+- 微信: 1085810633
 - github: [github.com/xzmly](https://github.com/xzmly)
-- blog: [blog](https://www.jianshu.com/u/40557ee17082)
-***
-### 教育经历
-- 2013～2016 全日制大专 机电一体化
-***
-### 技术栈
-- 熟练掌握html,css/less/scss,原生js进行开发。
-- 熟练使用Vue全家桶，有复杂轮子实践经验。
-- 精通原生小程序，有mpvue，wxpy流行小程序框架实践经验，对小程序有自己深入了解。
-- 熟悉ReactJS，熟悉TeypScript。
-- 熟悉http。
-- 熟练掌握ruby on rails，capistrano一键部署，有nginx配置经验。
-- 有项目搭建能力，和实践经验。
-- 有项目独立负责能力。
-***
-### 工作经历
-#### 广州柳橙科技有限公司 —— web 前端开发 —— 2017-09 ~ 2018-03
-- （微信小程序搜索功夫会小程序）。
-- 负责真功夫数字化转型项目前端项目。
-- 使用 **小程序原生框架** + **mobx** + **promise** + **ES6** 进行开发。
-- 封装原生小程序request接口，公共模版抽离，引入mobx方便页面之间数据处理。
-- wsx 原生模版改造页面，在ios上性能加倍，体验优化。
+- 技术博客: [blog](https://www.jianshu.com/u/40557ee17082)
+- 教育经历：广东理工学院/专科
 
-#### 杭州饥人谷教育科技有限公司 —— ruby on rails 全栈工程师 —— 2018-03 ~ 至今
-- 技术栈：Vue，小程序，React，TypeScript，rails
-- 后台管理一些常见的CRUD，API设计。
-- 负责[写代码啦](https://xiedaimala.com/)，[饥人谷官网](https://jirengu.com/)，版本升级开发与维护。
-- 独立开发xdml微信小程序（微信搜索xdml助手），直播功能，一键登录，后端api设计与编写。
-- 独立开发[河码](https://xiedaimala.com/bbs)，从表设计到测试用例到项目上线。
-- 独立完成春节活动页面，并部署到服务器。[活动页](https://xiedaimala.com/act2018/)
-- 参与React + TS造轮子开源项目测试编写。
-***
-### 我的特点
-- 有很强的学习能力，并运用到实际工作中。
-- 乐于接收领导的建议，批评。
-- 乐于接受新鲜事物，学习新技术。
-- 业余喜欢运动。
-- 有明确的短期目标和长期目标，建立自己的职业生涯。
+## 工作经验
+### 杭州饥人谷科技教育有限公司 2018-3 ～ 2019-3
+### [XDML](https://xiedaimala.com)
+- 技术栈：**Vue**，**VueRouter**，**VueX**，**Rails**，**Canvas**，**scss**
+- 负责[XDML](https://xiedaimala.com)网站PC版，移动端，Admin后台的开发和维护以及版本迭代。
+- 
+
+### [河码](https://xiedaimala.com/bbs)
+- 技术栈：**Vue**，**VueRouter**，**VueX**，**Rails**
+- 负责[河码](https://xiedaimala.com/bbs)网站PC版和，移动端，Admin后台的开发和维护以及版本迭代。
+- 
+
+### XDML小程序
+- 技术栈：**mpvue**，**websocket**，**webpack**，**scss**
+- 负责XDML小程序开发维护以及版本发布。
+- 应用小程序第三方框架**mpvue**进行工程化开发。
+- 对**wx.request**进行封装，对接口进行二次封装成**model**，方便调用。
+- 把通用组件模块化，封装成组件，业务逻辑清晰，方便二次复用。
+- 调用微信小程序**websocket**接口，封装函数，并且做到可以自动重连，完成直播聊天。
+
+### [饥人谷官网](https://jirengu.com/)
+- 技术栈：**Jquery**，**Parcel**，**scss**
+- 运用**Parcel**进行框架快速搭建进行开发以及打包。
+- 引入**Jquery**方便进行**DOM**操作，和动画制作。
+- 引入第三方库**Lightbox**作出图片放大效果。
+获得
+
+### [gu-ui-react](https://github.com/jrg-team/guui-react)
+- 技术栈：**React**，**TypeScript**
+
+
+### 广州柳橙科技技术有限公司  2017-5 ～ 2018-3
+### 功夫会小程序
+- 技术栈：**原生小程序**，**Mobx**，**Promise**，**ES6**
+- 负责小程序订单支付首页前端模块开发和维护以及版本迭代。
+- 引入**Promise**处理异步请求问题，让代码更加有可读性。
+- 引入**Mobx**加强页面间数据传递处理。
+- 封装**wx.request**统一处理后台返回报错，封装层model层，让接口调用更加有客观性。
+- 利用**wxs**原生模块，达成页面模版调用函数，大大增强性能，优化用户体验。
+- 抽离业务公共模块，抽离成组件，方便二次使用。
+
