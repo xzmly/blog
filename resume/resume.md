@@ -1,6 +1,7 @@
 ## 个人信息
 - 陈文浩 / 男 / 24
 - 联系电话：18575055829
+- 邮箱地址：1085810633@qq.com
 - github：[github.com/xzmly](https://github.com/xzmly)
 - 技术博客：[blog](https://www.jianshu.com/u/40557ee17082)
 - 教育经历：广东理工学院 / 机电一体化 / 专科
@@ -8,7 +9,7 @@
 ## 工作经验
 ### 杭州饥人谷科技教育有限公司 2018-3 ～ 2019-3
 #### [XDML](https://xiedaimala.com)
-- 技术栈：**Vue**，**VueRouter**，**VueX**，**Canvas**，**scss**，**Rails**
+- 技术栈：**Vue**，**VueRouter**，**VueX**，**Canvas**，**Scss**，**Rails**
 - 项目描述：公司主要业务平台，负责让用户学习，购买视频，写博客，娱乐等的一个web项目。
 - 负责[XDML](https://xiedaimala.com)网站PC版，移动端，Admin后台的开发和维护以及版本迭代。
 - 用Vue造出常用轮子，如**Pagination**，**Tabs**，**Dialog**，**Collapse**等常用轮子，方便功能复用，避免重复造轮子。
@@ -17,13 +18,17 @@
 - 后台常见的**CRUD**开发以及维护。
 
 #### [河码](https://xiedaimala.com/bbs)
-- 技术栈：**Vue**，**VueRouter**，**VueX**，**Rails**
+- 技术栈：**Vue**，**VueRouter**，**VueX**，**Rails**，**Scss**，**axios**
 - 项目描述：给XDML用户随意吐槽的一个论坛项目，给网站带来更大的粘合度，访问量以及用户新增数。
 - 独立负责[河码](https://xiedaimala.com/bbs)PC，移动端整站开发。
-- 
+- 运用**Vue全家桶** + **Rails** + **webpack** + **psql** 搭建的移动论坛项目。
+- 使用媒体查询做出移动端。
+- 用**ruby**渲染关键字眼**SEO**优化。
+- 使用**Capistrano**做一键部署。
+- 后台使用**Element**+**echarts**快速搭建管理后台。
 
 #### XDML小程序
-- 技术栈：**mpvue**，**websocket**，**webpack**，**scss**
+- 技术栈：**mpvue**，**websocket**，**webpack**，**Scss**
 - 项目描述：公司小程序项目，方便用户在线上观看直播，查看最新产品，预约等。
 - 负责XDML小程序开发维护以及版本发布。
 - 应用小程序第三方框架**mpvue**进行工程化开发。
@@ -32,17 +37,12 @@
 - 调用微信小程序**websocket**接口，封装函数，并且做到可以自动重连，完成直播聊天。
 
 #### [饥人谷官网](https://jirengu.com/)
-- 技术栈：**Jquery**，**Parcel**，**scss**
-- 项目描述：
+- 技术栈：**Jquery**，**Parcel**，**less**
+- 项目描述：公司官网，用于展示公司最新发布信息，后端使用php，前端使用**Parcel + Jquery + less**。
 - 运用**Parcel**进行框架快速搭建进行开发以及打包。
 - 引入**Jquery**方便进行**DOM**操作，和动画制作。
 - 运用 **@meida**监听设备尺寸，从而适配移动端。
 - 引入第三方库**Lightbox**作出图片放大效果。
-
-#### [gu-ui-react](https://github.com/jrg-team/guui-react)（开源项目）
-- 技术栈：**React**，**TypeScript**
-- 参与公司**react + ts** ui框架开源项目。
-
 
 ### 广州柳橙科技技术有限公司  2017-5 ～ 2018-3
 #### 功夫会小程序
@@ -54,3 +54,9 @@
 - 利用**wxs**原生模块，达成页面模版调用函数，大大增强性能，优化用户体验。
 - 抽离业务公共模块，抽离成组件，方便二次使用。
 
+### 技能描述
+
+
+#### [gu-ui-react](https://github.com/jrg-team/guui-react)（开源项目）
+- 技术栈：**React**，**TypeScript**
+- 参与公司**react + ts** ui框架开源项目。
