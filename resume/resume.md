@@ -38,7 +38,7 @@
 
 #### [饥人谷官网](https://jirengu.com/)
 - 技术栈：**Jquery**，**Parcel**，**less**
-- 项目描述：公司官网，用于展示公司最新发布信息，后端使用php，前端使用**Parcel + Jquery + less**。
+- 项目描述：公司官网，用于展示公司最新发布信息，后端使用**php**，前端使用**Parcel + Jquery + less**。
 - 运用**Parcel**进行框架快速搭建进行开发以及打包。
 - 引入**Jquery**方便进行**DOM**操作，和动画制作。
 - 运用 **@meida**监听设备尺寸，从而适配移动端。
@@ -57,14 +57,14 @@
 ### 技能描述
 - 熟练掌握**Vue**，**VueX**，**VueRouter**，**Vue-cli3**，有造轮子经验。
 - 熟练小程序原生开发，**mpvue**等常见框架进行开发。
-- 熟悉使用**Ruby on Rails**进行系统搭建，Api编写，CRUD，常见数据库查询等。
+- 熟悉使用**Ruby on Rails**进行系统搭建，**Api**编写，**CRUD**，常见数据库查询等。
 - 熟悉git版本管理，有review代码的习惯。
 - 掌握常⽤用的布局，能够完成界⾯面整洁、交互友好的⽹网⻚页，像素还原 UI 视觉稿，⻚页⾯面强迫症，不不允许有多余的滚动条。
 - 熟悉使⽤**ES6**的 解构赋值 ，**async，promise，Array** 新增常⽤用**api**，扩展运算符等。
 - 熟悉并能使用 **Scss，less** 和**Stylus，postcss**预处理器编写前端样式。
 - 熟悉 **React，redux，React-Router**。
 - 参与过公司**React + Ts** [gu-ui-react](https://github.com/jrg-team/guui-react) 开源分页组件的编写。
-- 业余时间利利⽤用 create-react-app & ant-design 写⼀些⼩小东⻄西。
+- 业余时间利利⽤用 **create-react-app & ant-design** 写⼀些小东⻄。
 
 ### 关于我
 - 喜欢调研新技术，常年逛于github，view大神代码。
