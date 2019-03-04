@@ -9,17 +9,17 @@
 
 ## 工作经验
 ### 杭州饥人谷科技教育有限公司 2018-3 ～ 2019-3
-### [XDML](https://xiedaimala.com)
+#### [XDML](https://xiedaimala.com)
 - 技术栈：**Vue**，**VueRouter**，**VueX**，**Rails**，**Canvas**，**scss**
 - 负责[XDML](https://xiedaimala.com)网站PC版，移动端，Admin后台的开发和维护以及版本迭代。
 - 
 
-### [河码](https://xiedaimala.com/bbs)
+#### [河码](https://xiedaimala.com/bbs)
 - 技术栈：**Vue**，**VueRouter**，**VueX**，**Rails**
 - 负责[河码](https://xiedaimala.com/bbs)网站PC版和，移动端，Admin后台的开发和维护以及版本迭代。
 - 
 
-### XDML小程序
+#### XDML小程序
 - 技术栈：**mpvue**，**websocket**，**webpack**，**scss**
 - 负责XDML小程序开发维护以及版本发布。
 - 应用小程序第三方框架**mpvue**进行工程化开发。
@@ -27,19 +27,19 @@
 - 把通用组件模块化，封装成组件，业务逻辑清晰，方便二次复用。
 - 调用微信小程序**websocket**接口，封装函数，并且做到可以自动重连，完成直播聊天。
 
-### [饥人谷官网](https://jirengu.com/)
+#### [饥人谷官网](https://jirengu.com/)
 - 技术栈：**Jquery**，**Parcel**，**scss**
 - 运用**Parcel**进行框架快速搭建进行开发以及打包。
 - 引入**Jquery**方便进行**DOM**操作，和动画制作。
 - 引入第三方库**Lightbox**作出图片放大效果。
 获得
 
-### [gu-ui-react](https://github.com/jrg-team/guui-react)
+#### [gu-ui-react](https://github.com/jrg-team/guui-react)
 - 技术栈：**React**，**TypeScript**
 
 
 ### 广州柳橙科技技术有限公司  2017-5 ～ 2018-3
-### 功夫会小程序
+#### 功夫会小程序
 - 技术栈：**原生小程序**，**Mobx**，**Promise**，**ES6**
 - 负责小程序订单支付首页前端模块开发和维护以及版本迭代。
 - 引入**Promise**处理异步请求问题，让代码更加有可读性。
