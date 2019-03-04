@@ -1,23 +1,24 @@
 ## 个人信息
-- 陈文浩/男/24
-- 联系电话: 18575055829
-- github: [github.com/xzmly](https://github.com/xzmly)
-- 技术博客: [blog](https://www.jianshu.com/u/40557ee17082)
-- 教育经历：广东理工学院/机电一体化/专科
+- 陈文浩 / 男 / 24
+- 联系电话：18575055829
+- github：[github.com/xzmly](https://github.com/xzmly)
+- 技术博客：[blog](https://www.jianshu.com/u/40557ee17082)
+- 教育经历：广东理工学院 / 机电一体化 / 专科
 
 ## 工作经验
 ### 杭州饥人谷科技教育有限公司 2018-3 ～ 2019-3
 #### [XDML](https://xiedaimala.com)
 - 技术栈：**Vue**，**VueRouter**，**VueX**，**Canvas**，**scss**，**Rails**
-- 项目描述：公司主要业务平台，负责让用户学习，购买视频，写博客，娱乐等的一个web网站。
+- 项目描述：公司主要业务平台，负责让用户学习，购买视频，写博客，娱乐等的一个web项目。
 - 负责[XDML](https://xiedaimala.com)网站PC版，移动端，Admin后台的开发和维护以及版本迭代。
-- 用Vue造出常用轮子，如**Pagination**,**Tabs**,**Dialog**,**Collapse**等常用轮子，方便功能复用，避免重复造轮子。
+- 用Vue造出常用轮子，如**Pagination**，**Tabs**，**Dialog**，**Collapse**等常用轮子，方便功能复用，避免重复造轮子。
 - 前端利用**axios**调用API，从而完成优惠券，博客，用户等业务功能，用**Rails**搭建过优惠券模块，博客模块等功能模块，独立编写完**API**和测试用例，为公司带来不错的收益。
 - 
 
 #### [河码](https://xiedaimala.com/bbs)
 - 技术栈：**Vue**，**VueRouter**，**VueX**，**Rails**
-- 负责[河码](https://xiedaimala.com/bbs)网站PC版和，移动端，Admin后台的开发和维护以及版本迭代。
+- 项目描述：给XDML用户随意吐槽的一个论坛项目，给网站带来更大的粘合度，访问量以及用户新增数。
+- 独立负责[河码](https://xiedaimala.com/bbs)PC，移动端整站开发。
 - 
 
 #### XDML小程序
